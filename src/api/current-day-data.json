@@ -1,0 +1,36 @@
+{
+    "time_table": {
+        "India": [
+            {
+                "city": "Bengaluru",
+                "times": [
+                    {
+                        "day": 1,
+                        "iftaar": "7.15 pm",
+                        "sehri": "4.15 am"
+                    },
+                    {
+                        "day": 2,
+                        "iftaar": "7.14 pm",
+                        "sehri": "4.16 am"
+                    }
+                ]
+            },
+            {
+                "city": "Dharwad",
+                "times": [
+                    {
+                        "day": 1,
+                        "iftaar": "7.15 pm",
+                        "sehri": "4.15 am"
+                    },
+                    {
+                        "day": 2,
+                        "iftaar": "7.14 pm",
+                        "sehri": "4.16 am"
+                    }
+                ]
+            }
+        ]
+    }
+}
