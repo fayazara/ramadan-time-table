@@ -1,0 +1,15 @@
+.fancy-font {
+  font-family: 'Josefina Sans';
+}
+
+.text-center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
